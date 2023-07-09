@@ -1,0 +1,5 @@
+export * from './add-<FTName | kebabcase>'
+export * from './get-<FTName | kebabcase>'
+export * from './list-<FTName | kebabcase>'
+export * from './update-<FTName | kebabcase>'
+export * from './delete-<FTName | kebabcase>'

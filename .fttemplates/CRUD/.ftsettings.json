@@ -1,0 +1,14 @@
+{
+  "name": "CRUD",
+  "omitParentDirectory": true,
+  "overwriteExistingFiles": "never",
+  "absolutePath": true,
+  "openFilesWhenDone": [
+    "/src/domain/dto/index.ts",
+    "/src/domain/error/index.ts",
+    "/src/domain/usecase/index.ts",
+    "/src/data/contracts/db/index.ts",
+    "/src/data/usecases/index.ts",
+    "/src/external/db/mongo/index.ts"
+  ]
+}
