@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@sweet-monads/either": "^3.2.0",
     "cls-hooked": "^4.2.2",
     "debug": "^4.3.4",
     "express": "^4.18.2",

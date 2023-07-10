@@ -1,7 +1,6 @@
-import { Application, setupDatabase } from './config'
-
+import { Application, setupDatabase } from "./config";
 
 (async () => {
-  await setupDatabase()
-  Application()
-})()
+  await setupDatabase();
+  Application();
+})();
